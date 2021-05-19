@@ -1,3 +1,3 @@
-# welcome to my site
+# Welcome to my site
 
 My name is stewart
