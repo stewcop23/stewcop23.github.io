@@ -1,3 +1,3 @@
-# yoo wassup  
+# welcome to my site
 
-Jnnxndn
+My name is stewart
