@@ -1,3 +1,3 @@
 # What are you here for?
 
-## ION instructions
+## [ION instructions](theatre.html)
