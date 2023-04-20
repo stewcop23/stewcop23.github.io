@@ -12,6 +12,8 @@ Looking now at the main area in our screen, there are several columns, but the t
 
 At this point you should have been given a list of channels and their addresses. To get started with patching, first type the channel you want to patch, you may notice that the software has automatically added “Chan” before the number you have inputted, this is important to notice because whenever you are programming the software automatically assumes you are talking about a channel when you type a number, unless you tell it otherwise. Follow this number with  “a” which as you will show as “Address” , because this Channel is at an Address, followed by the address that that channel should be patched to. In the command line it will look something like this:
 
+![Chan 10 Address 127](/Images/Chan10Addr127.png)
+
 This means that channel 10 will be patched to address 127.
 
 Finally you can select the type of fixture. Click on the type field beside the address of the channel you just patched. “Dimmer” is the default, this is for any conventional style lights that have no additional features. Select the fixture you want using the “Show”, “Manfctr”, or “Search” buttons at the bottom of the screen. “Show” shows you any fixtures that you have used in your current file (useful if you have to change to this fixture type many times), “Manfctr” shows you a list of manufacturers and the fixtures that they have made, and “Search” allows you to search for a specific fixture type.
