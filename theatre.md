@@ -115,4 +115,8 @@ Herein lies the main challenge of this project: Timing your cues to your music.
 
 ## Faders
 
-# An Analysis of One of My Shows
+# An Analysis of Some of My Shows
+
+[Hayloft II](/Show_Files/Hayloft_II.esf3d)
+
+[In The Flesh?](/Show_Files/In_The_Flesh_.esf3d)
